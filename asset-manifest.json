@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/hooks-CustomHooks.git/static/js/main.f374000c.chunk.js",
+    "main.js.map": "/hooks-CustomHooks.git/static/js/main.f374000c.chunk.js.map",
+    "runtime-main.js": "/hooks-CustomHooks.git/static/js/runtime-main.d0378732.js",
+    "runtime-main.js.map": "/hooks-CustomHooks.git/static/js/runtime-main.d0378732.js.map",
+    "static/css/2.383c0125.chunk.css": "/hooks-CustomHooks.git/static/css/2.383c0125.chunk.css",
+    "static/js/2.01ba314e.chunk.js": "/hooks-CustomHooks.git/static/js/2.01ba314e.chunk.js",
+    "static/js/2.01ba314e.chunk.js.map": "/hooks-CustomHooks.git/static/js/2.01ba314e.chunk.js.map",
+    "index.html": "/hooks-CustomHooks.git/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/hooks-CustomHooks.git/static/css/2.383c0125.chunk.css.map",
+    "static/js/2.01ba314e.chunk.js.LICENSE.txt": "/hooks-CustomHooks.git/static/js/2.01ba314e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0378732.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.01ba314e.chunk.js",
+    "static/js/main.f374000c.chunk.js"
+  ]
+}
